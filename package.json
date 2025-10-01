@@ -1,0 +1,23 @@
+{
+  "name": "practice-2",
+  "version": "1.0.0",
+  "description": "React practice code",
+ 
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayaliPandharkar/React.git"
+  },
+  "author": "Sayali Pandharkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayaliPandharkar/React/issues"
+  },
+  "homepage": "https://github.com/SayaliPandharkar/React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "browserslist":["last 2 version"]
+}
